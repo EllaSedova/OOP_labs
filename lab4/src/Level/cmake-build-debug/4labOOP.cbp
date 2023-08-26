@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="4labOOP"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Clabs/4labOOP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Clabs/4labOOP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4labOOP">
+				<Option output="D:/Clabs/4labOOP/cmake-build-debug/4labOOP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Clabs/4labOOP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Clabs/4labOOP/../Cell"/>
+					<Add directory="D:/Clabs/4labOOP/../Controller"/>
+					<Add directory="D:/Clabs/4labOOP/../Event"/>
+					<Add directory="D:/Clabs/4labOOP/../Field"/>
+					<Add directory="D:/Clabs/4labOOP/../Mediator"/>
+					<Add directory="D:/Clabs/4labOOP/../Player"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 4labOOP"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4labOOP/fast">
+				<Option output="D:/Clabs/4labOOP/cmake-build-debug/4labOOP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Clabs/4labOOP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Clabs/4labOOP/../Cell"/>
+					<Add directory="D:/Clabs/4labOOP/../Controller"/>
+					<Add directory="D:/Clabs/4labOOP/../Event"/>
+					<Add directory="D:/Clabs/4labOOP/../Field"/>
+					<Add directory="D:/Clabs/4labOOP/../Mediator"/>
+					<Add directory="D:/Clabs/4labOOP/../Player"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 4labOOP/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Clabs/4labOOP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Clabs/4labOOP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Clabs/4labOOP/Cell/Cell.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Cell/Cell.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Config_container.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Config_container.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Controller/CommandReader.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Controller/ConsoleCommandReader.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Controller/ConsoleCommandReader.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Controller/Controller.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Controller/Controller.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Clear_cell.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Clear_cell.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Event.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/EventField.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/EventField.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/EventPlayer.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/EventPlayer.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Heal.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Heal.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Key.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Key.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Level_exit.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Level_exit.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Wall.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/Wall.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/fire.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Event/fire.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Field/Field.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Field/Field.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Field/FieldView.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Field/FieldView.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/FileConfig.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/FileConfig.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Level/Level.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Level/Level.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Mediator/Mediator.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Mediator/Mediator.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observable/Observable.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observable/Subject.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observable/Subject.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/Concrete_obs.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/Concrete_obs.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/Console_obs.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/Console_obs.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/File_obs.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/File_obs.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/Message.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/Message.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Observer/Observer.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Player/Player.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/Player/Player.h">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/main.cpp">
+			<Option target="4labOOP"/>
+		</Unit>
+		<Unit filename="D:/Clabs/4labOOP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
