@@ -1,0 +1,43 @@
+[STATEMENT] Start game
+[ERROR] Wrong size
+[INFO] Change armor
+[INFO] Player stepped into the fire
+[INFO] Get key
+[INFO] Player found key
+[INFO] Player break wall
+[INFO] Change armor
+[INFO] Player stepped into the fire
+[INFO] Player found exit
+[STATEMENT] End game
+____________________END LOG____________________
+[STATEMENT] Start game
+[ERROR] Wrong size
+[INFO] Change armor
+[INFO] Player stepped into the fire
+[INFO] Get key
+[INFO] Player found key
+[INFO] Player break wall
+[INFO] Player found exit
+[STATEMENT] End game
+____________________END LOG____________________
+[STATEMENT] Start game
+[ERROR] Wrong size
+[INFO] Player break wall
+[INFO] Get key
+[INFO] Player found key
+[INFO] Player found exit
+[STATEMENT] End game
+____________________END LOG____________________
+[STATEMENT] Start game
+[ERROR] Wrong size
+[INFO] Change armor
+[INFO] Player stepped into the fire
+[INFO] Get key
+[INFO] Player found key
+[INFO] Player found exit
+[STATEMENT] End game
+____________________END LOG____________________
+[STATEMENT] Start game
+[ERROR] Wrong size
+[STATEMENT] Start game
+[ERROR] Wrong size
